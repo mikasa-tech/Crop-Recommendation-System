@@ -102,7 +102,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Images
 ![Crop Recommendation Output](Images/Screenshot%202026-02-27%20223531.png)
-![Crop Recommendation Output](Images\Screenshot 2026-02-28 130941.png)
+![Crop Recommendation Output2](Images\Screenshot 2026-02-28 130941.png)
 
 
 
