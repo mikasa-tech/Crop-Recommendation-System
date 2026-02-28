@@ -99,5 +99,12 @@ This project is open source and available under the [MIT License](LICENSE).
 4. Push to the branch
 5. Create a Pull Request
 
+
+## Images
+![Crop Recommendation Output](Images/Screenshot%202026-02-27%20223531.png)
+![Crop Recommendation Output](Images\Screenshot 2026-02-28 130941.png)
+
+
+
 ---
 Made with ❤️ for sustainable agriculture
